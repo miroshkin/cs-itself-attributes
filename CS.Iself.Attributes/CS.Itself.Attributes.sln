@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29020.237
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS.Iself.Attributes", "CS.Iself.Attributes\CS.Iself.Attributes.csproj", "{C026866A-80DB-4751-AD17-185884C5C95D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS.Itself.Attributes", "CS.Iself.Attributes\CS.Itself.Attributes.csproj", "{C026866A-80DB-4751-AD17-185884C5C95D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
