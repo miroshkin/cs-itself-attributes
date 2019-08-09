@@ -11,6 +11,10 @@ namespace CS.Iself.Attributes
             ShowHelp(typeof(Link).GetMethod("Display"));
         }
 
+        /// <summary>
+        /// Shows help info about classes or fields
+        /// </summary>
+        /// <param name="memberInfo"></param>
         static void ShowHelp(MemberInfo memberInfo)
         {
             HelpAttribute a = Attribute.GetCustomAttribute(memberInfo, typeof(HelpAttribute)) as HelpAttribute;
