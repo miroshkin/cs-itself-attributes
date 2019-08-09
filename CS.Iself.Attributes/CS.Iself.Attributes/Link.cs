@@ -4,7 +4,6 @@ using System.Text;
 
 namespace CS.Iself.Attributes
 {
-    [HelpAttribute("http://miroshkin.github.com", Topic="Link to github.com")]
     public class Link
     {
         [HelpAttribute("https://channel9.msdn.com", Topic = "Best practices videos and lessons") ]
